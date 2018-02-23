@@ -1,0 +1,8 @@
+/Users/raditia/Desktop/belajar/spring-multiple-modules/spring-persistence/src/main/java/com/raditia/request/AddCustomerRequest.java
+/Users/raditia/Desktop/belajar/spring-multiple-modules/spring-persistence/src/main/java/com/raditia/repository/CustomerRepository.java
+/Users/raditia/Desktop/belajar/spring-multiple-modules/spring-persistence/src/main/java/com/raditia/request/AddAddressRequest.java
+/Users/raditia/Desktop/belajar/spring-multiple-modules/spring-persistence/src/main/java/com/raditia/service/CustomerService.java
+/Users/raditia/Desktop/belajar/spring-multiple-modules/spring-persistence/src/main/java/com/raditia/service/impl/AddressServiceImpl.java
+/Users/raditia/Desktop/belajar/spring-multiple-modules/spring-persistence/src/main/java/com/raditia/service/AddressService.java
+/Users/raditia/Desktop/belajar/spring-multiple-modules/spring-persistence/src/main/java/com/raditia/repository/AddressRepository.java
+/Users/raditia/Desktop/belajar/spring-multiple-modules/spring-persistence/src/main/java/com/raditia/service/impl/CustomerServiceImpl.java
